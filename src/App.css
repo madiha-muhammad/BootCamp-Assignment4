@@ -1,7 +1,11 @@
 .box{
     height: 500px;
+    width: 500px;
+    margin: 30px;
+    padding: 30px;
+    border: firebrick dotted;
     background-color: lightgray;
 }
-.dayLight{
+.onLight{
     background-color: yellow;
 }
